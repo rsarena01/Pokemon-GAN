@@ -1,0 +1,11 @@
+tensorflow==2.16.2
+tensorflow-datasets==4.9.9
+
+keras==3.13.2
+numpy==1.26.4
+pandas==3.0.0
+matplotlib==3.10.8
+pillow==12.1.0
+
+jupyter
+ipykernel
